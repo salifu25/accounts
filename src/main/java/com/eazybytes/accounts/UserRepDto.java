@@ -3,7 +3,7 @@ package com.eazybytes.accounts;
 import lombok.Data;
 
 @Data
-public class UserReoDto {
+public class UserRepDto {
 
     private String username;
     private String firstName;
